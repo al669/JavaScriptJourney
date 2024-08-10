@@ -1,2 +1,3 @@
 # JavaScriptJourney
-This repo is for js Practice at beginner level. 
+
+I am practicing JS . This repo is used for learning of js myself. 
